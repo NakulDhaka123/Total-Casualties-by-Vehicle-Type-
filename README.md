@@ -1,4 +1,4 @@
-# Total-Casualties-by-Vehicle-Type-
+# Road Accident Dashboard
 Excel dashboard analyzing Total Casualties by Vehicle Type 🛵🚗🚌🚚  This interactive dashboard provides a comprehensive look at how different types of vehicles contribute to road casualties.
 The goal was to create a tool that’s not just informative—but also interactive and visually compelling.
 
